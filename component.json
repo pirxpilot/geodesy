@@ -1,0 +1,17 @@
+{
+  "name": "geodesy",
+  "repo": "pirxpilot/geodesy",
+  "description": "Tools for converting between numeric degrees and degrees / minutes / seconds.",
+  "version": "0.0.1",
+  "keywords": [
+    "geo",
+    "converter"
+  ],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "geo.js"
+  ],
+  "main": "geo.js",
+  "license": "MIT"
+}
